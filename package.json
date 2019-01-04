@@ -1,0 +1,25 @@
+{
+  "name": "shrtn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "baseUrl": "https://iggy.netlify.com/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natxoski/shrtn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natxoski/shrtn/issues"
+  },
+  "homepage": "https://github.com/natxoski/shrtn#readme",
+  "dependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
