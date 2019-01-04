@@ -1,3 +1,4 @@
-/git https://github.com/natxoski
-/unsplash/:query https://unsplash.com/search/photos/:query
-/search https://google.com.au
+//web              https://iggy.codes
+/git               https://github.com/natxoski
+/unsplash/:query   https://unsplash.com/search/photos/:query
+/search            https://google.com.au
